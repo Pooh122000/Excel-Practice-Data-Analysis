@@ -1,31 +1,102 @@
-Link :https://app.quadratichq.com/file/4a912b64-8bf7-448e-b630-25b688a7eac6
+Link :https://app.quadratichq.com/file/4a912b64-8bf7-448e-b630-25b688a7eac6?sheet=747d42c1-747f-462c-87fc-4c3242742dcd
 
-About Demo Project:
-📊 Sample Sales Analytics Dataset
-I've created a realistic sales dataset with 20 transactions including:
+# 📊 Sales Analytics Dashboard - Demo Project
 
-Date ranges: January to July 2024
-Product categories: Electronics, Software, Services
-Customer segments: Enterprise, SMB, Consumer
-Regions: North America, Europe, Asia Pacific
-Key metrics: Revenue, Cost, Profit, Units Sold
-📈 Analytics Dashboard
-I've created three powerful visualizations:
+A comprehensive sales analytics dashboard built with Quadratic, demonstrating real-time data visualization and business intelligence capabilities.
 
-Multi-panel Dashboard showing:
+---
 
-Revenue by Product Category
-Monthly Revenue Trends
-Profit vs Revenue correlation
-Units Sold by Region
-Summary Analytics Table with key KPIs:
+## 🎯 Project Overview
 
-Total Revenue: $1,107,500
-Total Profit: $511,350
-Average Profit Margin: 46.17%
-Product and regional breakdowns
-Profit Margin Analysis showing:
+This demo showcases an interactive sales analytics dashboard using a realistic dataset with 20 transactions spanning multiple product categories, regions, and customer segments.
 
-Software has the highest margins (68.09%)
-Services at 60.0% margin
-Electronics at 28.28% margin
+---
+
+## 📋 Dataset Details
+
+### Sample Sales Data Includes:
+
+| **Attribute** | **Details** |
+|---------------|-------------|
+| **Time Period** | January - July 2024 |
+| **Product Categories** | Electronics, Software, Services |
+| **Customer Segments** | Enterprise, SMB, Consumer |
+| **Geographic Regions** | North America, Europe, Asia Pacific |
+| **Key Metrics** | Revenue, Cost, Profit, Units Sold |
+
+**Total Transactions:** 20 entries with complete sales lifecycle data
+
+---
+
+## 📈 Dashboard Features
+
+### 1️⃣ Multi-Panel Visualization Dashboard
+
+An interactive dashboard featuring four key visualizations:
+
+- **📊 Revenue by Product Category** - Compare performance across product lines
+- **📈 Monthly Revenue Trends** - Track sales momentum over time
+- **💰 Profit vs Revenue Correlation** - Analyze profitability relationships
+- **🌍 Units Sold by Region** - Visualize geographic distribution
+
+### 2️⃣ Executive Summary Analytics
+
+Key performance indicators at a glance:
+
+| **Metric** | **Value** |
+|------------|-----------|
+| 💵 **Total Revenue** | $1,107,500 |
+| 💎 **Total Profit** | $511,350 |
+| 📊 **Avg Profit Margin** | 46.17% |
+
+Plus detailed product and regional performance breakdowns.
+
+### 3️⃣ Profit Margin Analysis
+
+Comparative margin analysis across product categories:
+🥇 Software      → 68.09% (Highest margin)
+🥈 Services      → 60.00% (Strong margin)
+🥉 Electronics   → 28.28% (Volume play)
+---
+
+## 💡 Key Insights
+
+- **Software** dominates profitability with 68%+ margins
+- **Services** maintain strong 60% margins with consistent performance
+- **Electronics** drives volume despite lower margins
+- Geographic diversity across three major regions
+- Balanced customer segment distribution
+
+---
+
+## 🚀 Try It Yourself
+
+1. Open the `.grid` file in [Quadratic](https://quadratichq.com)
+2. Explore the interactive dashboards
+3. Modify data to see real-time chart updates
+4. Customize visualizations for your own use case
+
+---
+
+## 🛠️ Built With
+
+- **Quadratic AI** - Spreadsheet platform with Python/JavaScript
+- **Plotly** - Interactive visualizations
+- **Python** - Data analysis and processing
+
+
+
+---
+
+## 🎓 Learning Objectives
+
+This demo demonstrates how to:
+- ✅ Structure business data for analysis
+- ✅ Create multi-chart interactive dashboards
+- ✅ Calculate and visualize KPIs
+- ✅ Perform comparative analysis
+- ✅ Build executive-ready reports
+
+---
+
+**Made with ❤️ using Quadratic AI**
