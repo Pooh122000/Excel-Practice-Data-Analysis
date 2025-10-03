@@ -1,0 +1,42 @@
+# 🚀 What Can You Build with Quadratic?
+
+Quadratic isn't just another spreadsheet - it's a **powerful data platform** that combines the simplicity of Excel with the power of Python and JavaScript. Here's what makes it special:
+
+---
+
+## 🧠 Smart Analytics (No PhD Required!)
+
+Turn your data into insights with built-in tools:
+- **Predict the future** with machine learning (regression, classification, clustering)
+- **Forecast trends** using time series analysis
+- **Test your hunches** with statistical hypothesis testing
+- **Spot patterns** with correlation matrices and beautiful heatmaps
+
+---
+
+## 🔌 Connect to Anything
+
+Stop copy-pasting data. Pull it straight from the source:
+- **Databases**: PostgreSQL, MySQL, Snowflake, BigQuery
+- **Files**: CSV, Excel, Parquet - we speak them all
+- **The Web**: Scrape websites with BeautifulSoup
+- **APIs**: Fetch live data from any REST API
+
+---
+
+## 🎨 Visualizations That Pop
+
+Make your data tell a story:
+- **Interactive charts** - zoom, pan, and explore with Plotly
+- **3D visualizations** and animated maps
+- **Statistical plots** - box plots, violin plots, distributions
+- **Live dashboards** that update in real-time
+- Mix and match chart types on one dashboard
+
+---
+
+## ⚡ Power User Features
+
+Work smarter, not harder:
+- 💾 **SQL in cells** - query your data like a database
+- 🐍 **Python & JavaScript** - write
